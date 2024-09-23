@@ -1,3 +1,3 @@
 # RandomForest
 
-Estudando o uso de Random Forest e comparando seu MAE(mean absolute error) com o de uma DecisionTree
+Estudando o uso de uma Random Forest e comparando seu MAE(mean absolute error) com o de uma DecisionTree
